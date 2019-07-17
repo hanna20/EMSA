@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092798744463",
+    "firebase_url": "https://fileapp-bc607.firebaseio.com",
+    "project_id": "fileapp-bc607",
+    "storage_bucket": "fileapp-bc607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092798744463:android:f9fc2071668e6492",
+        "android_client_info": {
+          "package_name": "com.example.rediet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092798744463-igbk0mcvud22mohrs6u6n343f6g67m7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUrxcmCq-FIAEiwN0snsg-asEyjgTNwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092798744463-igbk0mcvud22mohrs6u6n343f6g67m7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
