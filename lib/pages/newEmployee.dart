@@ -1,6 +1,6 @@
 // import 'dart:developer';
 
-import 'dart:core' as prefix0;
+// import 'dart:core' as prefix0;
 
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -344,7 +344,7 @@ void initState() {
                           {
                                
 
-                            print(_empFullnameController.text);
+                            // print(_empFullnameController.text);
                            // print(_handleGenderType);
                             empReference.child(widget.emp.id).set({
                             'fullname': _empFullnameController.text,
