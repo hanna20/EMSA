@@ -1,4 +1,4 @@
-# rediet_app
+# Employee Management System
 
 A new Flutter project.
 
